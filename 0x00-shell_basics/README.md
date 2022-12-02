@@ -1,1 +1,2 @@
-Write a script that changes the working directory to the previous one
+: 0.0%)
+Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory
