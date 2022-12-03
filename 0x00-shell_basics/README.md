@@ -1,1 +1,1 @@
-Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory
+Create a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
