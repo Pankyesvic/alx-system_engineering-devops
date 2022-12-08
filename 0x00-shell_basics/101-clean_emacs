@@ -1,2 +1,2 @@
 #!/bin/bash
-rm [[:upper:]]* /tmp/u
+ls --format=commas -a -p --indicator-style=slash
